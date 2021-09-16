@@ -1,1 +1,3 @@
 # the-social-network
+This is a simple social network. You can create a new account using a username and password. When you log in with a username, you can create or edit a profile (add your first and last name, email, gender, biography, and picture). On this platform, you can see all members, and if you want you can follow some of them or text a message. You can see your followers and those who you follow. Also, you can see your messages whit other members of the platform. You have the option to send messages private or public and you can delete messages.
+In this project focus is on PHP and AJAX
